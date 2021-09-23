@@ -1,0 +1,2 @@
+# inventario
+Mi primer repositorio
